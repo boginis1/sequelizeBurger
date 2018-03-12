@@ -1,2 +1,2 @@
-# sequelizeBurger
-Name that Burger using sequelize
+# zoburgers
+Zoburgers
