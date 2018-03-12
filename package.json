@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "sequelizeBurger",
+=======
+  
+>>>>>>> 83d72138bf7b5fa81b06a1b5252953bda2f57744
   "version": "1.0.0",
   "description": "Burgers App",
   "main": "server.js",
@@ -9,14 +13,23 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/boginis1/sequelizeBurger.git"
+=======
+   
+>>>>>>> 83d72138bf7b5fa81b06a1b5252953bda2f57744
   },
   "author": "",
   "license": "ISC",
   "bugs": {
+<<<<<<< HEAD
     "url": "https://github.com/boginis1/sequelizeBurger/issues"
   },
   "homepage": "https://github.com/boginis1/sequelizeBurger#readme",
+=======
+    
+
+>>>>>>> 83d72138bf7b5fa81b06a1b5252953bda2f57744
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
